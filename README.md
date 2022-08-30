@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praneeth-Avula
-- 👀 I’m interested in ROS and Autonomous Driving projects
-- 🌱 I’m currently learning Software development of Mobile Robots and Computer vision
+- 👀 I’m interested in Autonomous Driving and Deep Learning projects
+- 🌱 I’m currently learning  about Computer vision and Convolutional neural Networks
 
 <!---
 Praneeth-Avula/Praneeth-Avula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
